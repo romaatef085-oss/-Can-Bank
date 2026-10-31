@@ -11,14 +11,14 @@ The main goal is to reduce plastic waste, encourage recycling, and contribute to
 - [Mayar Ashraf Gad]
 
 4. Work Plan:
-1. Research the plastic waste problem in Egypt.
-2. Study the Can Bank initiative and understand how the machine works.
-3. Develop the project concept and script.
-4. Create the storyboard and organize the scenes.
-5. Design the visual elements and illustrations.
-6. Animate the scenes using motion graphics techniques.
-7. Add sound effects and background music.
-8. Review and export the final video.
+. Research the plastic waste problem in Egypt.
+. Study the Can Bank initiative and understand how the machine works.
+. Develop the project concept and script.
+. Create the storyboard and organize the scenes.
+. Design the visual elements and illustrations.
+. Animate the scenes using motion graphics techniques.
+. Add sound effects and background music.
+. Review and export the final video.
 
 5. Roles & Responsibilities:
 - Research and Content Development: [Azza Mohamed]
